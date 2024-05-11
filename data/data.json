@@ -1,0 +1,406 @@
+[
+    {
+        "serialno": 1,
+        "marks": 94.5
+    },
+    {
+        "serialno": 2,
+        "marks": 84.0
+    },
+    {
+        "serialno": 3,
+        "marks": 84.0
+    },
+    {
+        "serialno": 4,
+        "marks": 82.0
+    },
+    {
+        "serialno": 5,
+        "marks": 81.5
+    },
+    {
+        "serialno": 6,
+        "marks": 82.0
+    },
+    {
+        "serialno": 7,
+        "marks": 80.0
+    },
+    {
+        "serialno": 8,
+        "marks": 54.0
+    },
+    {
+        "serialno": 9,
+        "marks": 52.5
+    },
+    {
+        "serialno": 10,
+        "marks": 63.0
+    },
+    {
+        "serialno": 11,
+        "marks": 50.5
+    },
+    {
+        "serialno": 12,
+        "marks": 51.0
+    },
+    {
+        "serialno": 13,
+        "marks": 52.0
+    },
+    {
+        "serialno": 14,
+        "marks": 51.0
+    },
+    {
+        "serialno": 15,
+        "marks": 54.5
+    },
+    {
+        "serialno": 16,
+        "marks": 53.0
+    },
+    {
+        "serialno": 17,
+        "marks": 50.5
+    },
+    {
+        "serialno": 18,
+        "marks": 52.0
+    },
+    {
+        "serialno": 19,
+        "marks": 53.5
+    },
+    {
+        "serialno": 20,
+        "marks": 63.0
+    },
+    {
+        "serialno": 21,
+        "marks": 59.0
+    },
+    {
+        "serialno": 22,
+        "marks": 49.5
+    },
+    {
+        "serialno": 23,
+        "marks": 64.0
+    },
+    {
+        "serialno": 24,
+        "marks": 65.0
+    },
+    {
+        "serialno": 25,
+        "marks": 53.0
+    },
+    {
+        "serialno": 26,
+        "marks": 53.5
+    },
+    {
+        "serialno": 27,
+        "marks": 51.5
+    },
+    {
+        "serialno": 28,
+        "marks": 63.0
+    },
+    {
+        "serialno": 29,
+        "marks": 64.0
+    },
+    {
+        "serialno": 30,
+        "marks": 67.0
+    },
+    {
+        "serialno": 31,
+        "marks": 62.5
+    },
+    {
+        "serialno": 32,
+        "marks": 57.5
+    },
+    {
+        "serialno": 33,
+        "marks": 61.0
+    },
+    {
+        "serialno": 34,
+        "marks": 63.0
+    },
+    {
+        "serialno": 35,
+        "marks": 65.0
+    },
+    {
+        "serialno": 36,
+        "marks": 55.5
+    },
+    {
+        "serialno": 37,
+        "marks": 64.0
+    },
+    {
+        "serialno": 38,
+        "marks": 60.0
+    },
+    {
+        "serialno": 39,
+        "marks": 58.0
+    },
+    {
+        "serialno": 40,
+        "marks": 50.0
+    },
+    {
+        "serialno": 41,
+        "marks": 60.0
+    },
+    {
+        "serialno": 42,
+        "marks": 65.0
+    },
+    {
+        "serialno": 43,
+        "marks": 47.0
+    },
+    {
+        "serialno": 44,
+        "marks": 57.5
+    },
+    {
+        "serialno": 45,
+        "marks": 54.0
+    },
+    {
+        "serialno": 46,
+        "marks": 51.5
+    },
+    {
+        "serialno": 47,
+        "marks": 62.0
+    },
+    {
+        "serialno": 48,
+        "marks": 62.5
+    },
+    {
+        "serialno": 49,
+        "marks": 52.0
+    },
+    {
+        "serialno": 50,
+        "marks": 65.5
+    },
+    {
+        "serialno": 51,
+        "marks": 70.0
+    },
+    {
+        "serialno": 52,
+        "marks": 65.0
+    },
+    {
+        "serialno": 53,
+        "marks": 66.5
+    },
+    {
+        "serialno": 54,
+        "marks": 61.0
+    },
+    {
+        "serialno": 55,
+        "marks": 75.0
+    },
+    {
+        "serialno": 56,
+        "marks": 77.0
+    },
+    {
+        "serialno": 57,
+        "marks": 61.0
+    },
+    {
+        "serialno": 58,
+        "marks": 75.0
+    },
+    {
+        "serialno": 59,
+        "marks": 67.0
+    },
+    {
+        "serialno": 60,
+        "marks": 73.0
+    },
+    {
+        "serialno": 61,
+        "marks": 70.0
+    },
+    {
+        "serialno": 62,
+        "marks": 64.5
+    },
+    {
+        "serialno": 63,
+        "marks": 72.0
+    },
+    {
+        "serialno": 64,
+        "marks": 70.0
+    },
+    {
+        "serialno": 65,
+        "marks": 69.5
+    },
+    {
+        "serialno": 66,
+        "marks": 73.5
+    },
+    {
+        "serialno": 67,
+        "marks": 72.0
+    },
+    {
+        "serialno": 68,
+        "marks": 69.0
+    },
+    {
+        "serialno": 69,
+        "marks": 62.0
+    },
+    {
+        "serialno": 70,
+        "marks": 72.0
+    },
+    {
+        "serialno": 71,
+        "marks": 67.0
+    },
+    {
+        "serialno": 72,
+        "marks": 70.5
+    },
+    {
+        "serialno": 73,
+        "marks": 72.5
+    },
+    {
+        "serialno": 74,
+        "marks": 62.5
+    },
+    {
+        "serialno": 75,
+        "marks": 63.5
+    },
+    {
+        "serialno": 76,
+        "marks": 64.0
+    },
+    {
+        "serialno": 77,
+        "marks": 27.0
+    },
+    {
+        "serialno": 78,
+        "marks": 44.0
+    },
+    {
+        "serialno": 79,
+        "marks": 44.0
+    },
+    {
+        "serialno": 80,
+        "marks": 40.0
+    },
+    {
+        "serialno": 81,
+        "marks": 45.0
+    },
+    {
+        "serialno": 82,
+        "marks": 51.0
+    },
+    {
+        "serialno": 83,
+        "marks": 47.0
+    },
+    {
+        "serialno": 84,
+        "marks": 60.5
+    },
+    {
+        "serialno": 85,
+        "marks": 40.5
+    },
+    {
+        "serialno": 86,
+        "marks": 57.5
+    },
+    {
+        "serialno": 87,
+        "marks": 52.0
+    },
+    {
+        "serialno": 88,
+        "marks": 44.0
+    },
+    {
+        "serialno": 89,
+        "marks": 42.0
+    },
+    {
+        "serialno": 90,
+        "marks": 41.0
+    },
+    {
+        "serialno": 91,
+        "marks": 56.5
+    },
+    {
+        "serialno": 92,
+        "marks": 54.0
+    },
+    {
+        "serialno": 93,
+        "marks": 56.5
+    },
+    {
+        "serialno": 94,
+        "marks": 58.0
+    },
+    {
+        "serialno": 95,
+        "marks": 47.0
+    },
+    {
+        "serialno": 96,
+        "marks": 45.0
+    },
+    {
+        "serialno": 97,
+        "marks": 45.0
+    },
+    {
+        "serialno": 98,
+        "marks": 56.0
+    },
+    {
+        "serialno": 99,
+        "marks": 24.0
+    },
+    {
+        "serialno": 100,
+        "marks": 26.0
+    },
+    {
+        "serialno": 101,
+        "marks": 39.0
+    }
+]
